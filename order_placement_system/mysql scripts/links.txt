@@ -1,0 +1,3 @@
+
+@Collection
+http://www.logicbig.com/tutorials/java-ee-tutorial/jpa/collection-table/

@@ -1,0 +1,67 @@
+form {
+	margin-top: 10px;
+
+}
+
+label {
+	font-size: 16px; 
+	/* width: 200px; */  
+	/* display: block; */ 
+/* 	text-align: right; */
+	margin-right: 10px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+
+}
+
+input {
+/*  	width: 300px; */
+	border: 1px solid #666; 
+	border-radius: 5px;
+	padding: 4px; 
+	font-size: 16px;
+/*  	text-align: left;   */
+
+}
+
+.save {
+	font-weight: bold;
+	width: 130px; 
+	padding: 5px 10px; 
+	margin-top: 30px;
+	background: #cccccc;
+}
+
+.checkbox{
+	color: blue;
+ 	float: right; 
+}
+
+.wid {
+	width: 250px;
+}
+
+table {   
+	border-style:none;
+	width:70%;
+	/* table-layout: fixed; */
+}
+
+tr:nth-child(even) {background: #FFFFFF}
+tr:nth-child(odd) {background: #FFFFFF}
+
+textarea {
+	border-radius: 5px;
+	border: 1px solid #666;
+	padding: 4px; 
+}
+
+tr {
+	border-style:none;
+  	text-align:right;
+}
+
+td {
+	width: 250px;
+} 
+	
